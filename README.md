@@ -1,5 +1,5 @@
 ## Hi there, I'm Iker! 👋
-<img width="400" alt="Kim Kitsuragi" src="https://github.com/user-attachments/assets/65613cab-5fc3-4662-ad89-68ae3b6ed8fc" />
+<img width="400" height="514" alt="images" src="https://github.com/user-attachments/assets/e53c59e0-30e4-4120-8538-9a466a832a46" />
 
 - 🔭 I’m currently studying DAM, with a focus on videogames
 - 🤔 I’m looking for help with anything related with game development or programming
